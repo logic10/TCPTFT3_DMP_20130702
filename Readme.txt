@@ -1,0 +1,12 @@
+บอร์ดที่ใช้ TFT V3 
+TCP Stack Version MCHP_LIBV2013-02-15
+
+/Microchp TCP Stack/Microchip
+/Microchp TCP Stack/TCPIP/TCPTFT3_DMP_20130613
+    			 /TCPTFT3_DMP_20130613/Configs
+			 /TCPTFT3_DMP_20130613/MPLAB.X
+			 /TCPTFT3_DMP_20130613/Precompiled Hex
+			 /TCPTFT3_DMP_20130613/SSLKeys
+			 /TCPTFT3_DMP_20130613/WebPages2
+			 /TCPTFT3_DMP_20130613/BerkeleyTCPClientDemo.c
+			 /TCPTFT3_DMP_20130613/BerkeleyTCPServerDemo.c
